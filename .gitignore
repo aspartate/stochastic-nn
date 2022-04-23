@@ -1,5 +1,6 @@
 # Pickles
 *.pkl
+*.mp4
 
 # Virtual environment
 _stochastic_env/

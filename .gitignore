@@ -1,4 +1,5 @@
 *.mp4
+*.pkl
 
 # Virtual environment
 _stochastic_env/
